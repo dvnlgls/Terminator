@@ -1,0 +1,13 @@
+D:\Projects\Terminator\Terminator\bin\Debug\Terminator.exe.config
+D:\Projects\Terminator\Terminator\bin\Debug\Terminator.exe
+D:\Projects\Terminator\Terminator\bin\Debug\Terminator.pdb
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.Form1.resources
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.Properties.Resources.resources
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.csproj.GenerateResource.Cache
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.exe
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.pdb
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.csprojResolveAssemblyReference.cache
+D:\Projects\Terminator\Terminator\bin\Debug\Terminator.exe.manifest
+D:\Projects\Terminator\Terminator\bin\Debug\Terminator.application
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.exe.manifest
+D:\Projects\Terminator\Terminator\obj\Debug\Terminator.application
